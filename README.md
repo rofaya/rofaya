@@ -22,3 +22,13 @@
 - 🔭 I'm exploring web projects and AI applications.
 - 💞️ I'm open to collaborating on open-source projects.
 - 📫 Find me on [GitHub](https://github.com/rofaya).
+
+### Languages and Tools
+
+![Rust](https://img.shields.io/badge/-Rust-e43717?style=flat-square&logo=rust&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
