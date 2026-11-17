@@ -32,3 +32,10 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+
+### Statistics
+
+<p align="center">
+  <img height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api?username=rofaya&hide_title=true&hide_border=true&show_icons=true&count_private=false&line_height=21&theme=dracula" alt="rofaya's GitHub statistics" />
+  <img height="137px" src="https://github-readme-stats-one-rosy.vercel.app/api/top-langs/?username=rofaya&hide_title=true&hide_border=true&layout=compact&hide=html,css,scss&theme=dracula" alt="rofaya's top languages" />
+</p>
